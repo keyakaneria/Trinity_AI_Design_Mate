@@ -15,5 +15,8 @@ This project is a web-based AI assistant designed to help users personalize furn
 
 ## Authors
 Keya Kaneria - 202407020299
+
 Krima Bhavsar - 202407020
+
 Diya Joshi - 2024070202
+
