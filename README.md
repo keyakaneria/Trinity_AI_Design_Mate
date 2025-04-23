@@ -8,6 +8,12 @@ This project is a web-based AI assistant designed to help users personalize furn
 ## Features
 
 - AI-generated furniture suggestions based on user input
-- Option to specify renovation goals and design preferences
+- Image-based room analysis 
 - Clean and responsive user interface
 - Lightweight and optimized for fast performance
+- Responsive and modern UI design
+
+## Authors
+Keya Kaneria - 202407020299
+Krima Bhavsar - 202407020
+Diya Joshi - 2024070202
